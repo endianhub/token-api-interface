@@ -1,11 +1,12 @@
 package com.xh.token.api.common.exception;
 
 /**
- * 自定义异常
+ * <p>Title: 自定义异常</p>
+ * <p>Description: </p>
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2016年10月27日 下午10:11:27
+ * @author H.Yang
+ * @date 2018年4月12日
+ * 
  */
 public class ResultException extends RuntimeException {
 	private static final long serialVersionUID = 1L;

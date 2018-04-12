@@ -36,9 +36,9 @@ public class TokenUtil {
 		Map<String, Object> map = new HashMap<String, Object>();
 		map.put("token", token);
 		map.put("expire", EXPIRE);
-		
+
 		LOGGER.info("map：" + map.toString());
-		
+
 		return map;
 	}
 }

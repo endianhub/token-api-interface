@@ -7,11 +7,12 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * 登录用户信息
- *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-23 20:39
+ * <p>Title: 登录用户信息</p>
+ * <p>Description: </p>
+ * 
+ * @author H.Yang
+ * @date 2018年4月12日
+ * 
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

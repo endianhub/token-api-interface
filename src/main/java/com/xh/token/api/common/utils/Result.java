@@ -6,11 +6,12 @@ import java.util.Map;
 import org.apache.http.HttpStatus;
 
 /**
- * 返回数据	
+ * <p>Title: 返回数据	</p>
+ * <p>Description: </p>
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2016年10月27日 下午9:59:27
+ * @author H.Yang
+ * @date 2018年4月12日
+ * 
  */
 public class Result extends HashMap<String, Object> {
 	private static final long serialVersionUID = 1L;

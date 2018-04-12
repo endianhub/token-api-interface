@@ -14,10 +14,12 @@ import com.xh.token.api.annotation.AuthIgnore;
 import com.xh.token.api.common.exception.ResultException;
 
 /**
- * 权限(Token)验证
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-23 15:38
+ * <p>Title: 权限(Token)验证</p>
+ * <p>Description: </p>
+ * 
+ * @author H.Yang
+ * @date 2018年4月12日
+ * 
  */
 @Component
 public class AuthorizationInterceptor extends HandlerInterceptorAdapter {
